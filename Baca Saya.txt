@@ -1,0 +1,3 @@
+index.html adalah page utama dan satu-satunya.
+Disarankan untuk menggunakan Live Server dari VS Code. 
+Terimakasih.
